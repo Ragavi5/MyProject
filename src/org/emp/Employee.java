@@ -17,6 +17,10 @@ public class Employee {
  private void empId(float weight) {
 	 System.out.println("Employee weight:"+weight);	
 }
+ private void m2() {
+	System.out.println("ashmita");
+
+}
  public static void main(String[] args) {
 	Employee e = new Employee();
 	e.empId();
