@@ -17,8 +17,18 @@ public class Employee {
  private void empId(float weight) {
 	 System.out.println("Employee weight:"+weight);	
 }
+ 
+ 
+ 
+ 
+ 
+//<<<<<<< HEAD
  private void m2() {
-	System.out.println("ashmita");
+	System.out.println("ashmita");}
+//=======
+ private void m1() {
+System.out.println("ragavi");
+//>>>>>>> 4847d0c3fd18121de107b08ba7107b9859122d42
 
 }
  public static void main(String[] args) {
